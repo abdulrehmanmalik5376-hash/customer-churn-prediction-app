@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = "https://your-fastapi-app.onrender.com"
+API_URL = "https://customer-churn-api.onrender.com"
 st.set_page_config(
     page_title="Customer Churn Prediction",
     page_icon="📊",
