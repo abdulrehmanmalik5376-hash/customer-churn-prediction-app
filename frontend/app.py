@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = "https://customer-churn-api.onrender.com"
+API_URL = "http://127.0.0.1:8000"
 
 st.set_page_config(
     page_title="Customer Churn Prediction",
