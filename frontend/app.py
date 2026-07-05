@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import requests
 
-API_URL = "https://charismatic-courtesy-production-e45a.up.railway.app/"
+API_URL = "https://charismatic-courtesy-production-e45a.up.railway.app"
 st.set_page_config(
     page_title="Customer Churn Prediction",
     page_icon="📊",
